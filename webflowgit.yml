@@ -1,6 +1,2 @@
-# site: https://www.example.com
-# pages: false
-# OR
-# pages:
-#   ignore:
-#   - /posts/**
+# site: https://stellar-site-e1940c.webflow.io/
+# pages: true
